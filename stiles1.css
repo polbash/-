@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serifheader;
+    
+
+}
+header {
+   padding:20px;
+    height: 30px;
+    background-color:cyan;
+ 
+
+}
+
+h1{
+        text-align: center;
+        border-radius: 10px;
+        color:green;
+       } 
+       a{
+           color:black;
+           font-size:20px;
+             } 
+    
